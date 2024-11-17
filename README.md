@@ -158,7 +158,7 @@
 #### 1.1.1. Startup Description
 
 <p align="justify">
-  SaveIt is a startup focused on revolutionazing personal finance management, helping people optimize their financial habits and achieve their financial goals. We prioritize user experience to offer an intuitive and personalized platform, designed as a powerful tool to make smart decisions and manage income, expenses and budgets efficiently, In this way, we seek to empower our users to excel in the management of their resources and improve their financial quality of life.
+  SaveIt is a startup dedicated to transforming personal finance management. We help people optimize their financial habits and achieve their goals with an intuitive platform. By focusing on user experience, we empower users to make smart decisions and efficiently manage their income, expenses, and budgets, ultimately improving their financial well-being.
 </p>
 
 ##### Mision  
