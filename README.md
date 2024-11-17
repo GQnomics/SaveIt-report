@@ -188,7 +188,7 @@
       </thead>
       <tbody>
         <tr>
-          <td><img src="https://shorturl.at/2BqlZ" alt="profile-picture-gonzalo-andre-quedena" width="400px"/></td>
+          <td><img src="https://shorturl.at/2BqlZ" alt="profile-picture-gonzalo-andre-quedena" width="800px"/></td>
           <td align="center">Gonzalo Andre Quedena</td>
           <td align="center">Software Engineeing</td>
           <td align="justify">
