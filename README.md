@@ -145,6 +145,12 @@
           <td>Gonzalo Quedena</td>
           <td>Developed the Startup Profile section</td>
         </tr>
+        <tr>
+          <td>0.0.2</td>
+          <td>18/11/2024</td>
+          <td>Gonzalo Quedena</td>
+          <td>Development of the Solution Profile up to section 1.2.2.2</td>
+        </tr>
       </tbody>
     </table>
   </div>
@@ -196,7 +202,7 @@
           </td>
           <td>
             <ul>
-              <li>Python</li>
+              <li>Python</li> 
               <li>C++</li>
               <li>C#</li>
               <li>Angular</li>
@@ -211,4 +217,99 @@
     </table>
   </div>
 
-</div>
+</div>  
+
+### 1.2. Solution Profile  
+
+#### 1.2.1. Background and Problem Statement  
+
+###### Background
+<p align="justify">
+  In the current context, personal financial management has become a priority for many people who face economic challenges such as inflation, variable income and unexpected expenses. However, most people lack accessible, intuitive and effective tools to properly track their finances. Although there are applications on the market, many are complex, poorly customizable or do not offer active guidance to improve financial habits
+</p>
+
+###### Problem Statement (5Ws and 2Hs)
+
+<h5 style="color: #000; font-size: .9rem">What: What's the problem?</h5>   
+
+* Many people struggle to manage their income, control their expenses and plan their budgets, which prevents them from achieving their financial goals.
+
+<h5 style="color: #000; font-size: .9rem">Where: Where does the problem arise?</h5>  
+
+* The problem arises in the daily lives of users, whether at home, at work, or during social activities, when they do not have adequate tools to make informed financial decisions.
+
+<h5 style="color: #000; font-size: .9rem">Why: Why can't they manage their finances well?</h5>  
+
+* The lack of financial knowledge, the absence of personalized tools, and the use of disorganized methods lead to bad spending habits and insufficient savings.
+
+<h5 style="color: #000; font-size: .9rem">When: When does the problem occur?</h5>  
+
+* The problem occurs in various situations: when making impulsive purchases, not monitoring periodic expenses, or not having clarity about the current state of their finances.
+
+<h5 style="color: #000; font-size: .9rem">Who/Quién: Who is involved?</h5>  
+
+* People of different ages and socioeconomic levels, especially young professionals, families, and those with variable incomes.
+
+<h5 style="color: #000; font-size: .9rem">How: How do you manage your finances now?</h5>  
+
+* Most people use rudimentary methods such as generic apps, spreadsheets or simply rely on their memory, which is inefficient and error-prone.
+
+<h5 style="color: #000; font-size: .9rem">How much: How much do they lose due to poor financial management?</h5>  
+
+* It is estimated that, on average, people lose between 10% and 20% of their income due to unnecessary expenses, late payments and lack of planning
+
+#### 1.2.2. Lean UX Process  
+
+##### 1.2.2.1. Lean UX Problem Statements  
+<p align="justify">
+  The current state of personal financial management relies on disorganized and traditional methods such as spreadsheets, manual notes, or generic applications. These solutions do not provide efficient control or actionable information that allows users to improve their financial habits, resulting in financial losses, financial stress, and lack of savings.
+</p>  
+
+<p align="justify">
+  The problem lies in the lack of an accessible and personalized tool that combines simplicity with advanced features, such as proactive alerts, savings suggestions and clear visualization of spending patterns. Users, especially young professionals and families, need a platform that integrates seamlessly into their daily routine and helps them make smart financial decisions.
+</p>
+
+<p align="justify">
+  Our product, SaveIt, will address this gap through an easy-to-use app that offers features such as automatic categorization, budget alerts, and interactive charts to help users monitor and optimize their finances.
+</p>
+
+<p align="jusify">
+  We’ll know we’ve been successful when we see increasing adoption of the platform, with an increase in monthly retention rate and a customer satisfaction (CSAT) score above 90%.
+</p>
+
+##### 1.2.2.2. Lean UX Assumptions  
+
+###### Business Assumptions  
+1. There is a growing market of users interested in digital financial tools.  
+2. Users are willing to invest in applications that help them save money and improve their personal finances.  
+3. An intuitive and accessible design will attract more users and reduce the learning curve.  
+4. Artificial intelligence can enhance the value proposition by providing personalized recommendations.  
+
+###### User Assumptions  
+5. Users prefer tools that can be customized according to their habits and financial goals.  
+6. They want actionable insights and clear visualizations about their spending patterns.  
+7. They value the ability to receive preventive alerts to avoid exceeding their budget.  
+8. They need mobile and accessible solutions that integrate seamlessly into their daily routine.  
+
+###### Business Outcome Assumptions  
+* Achieve a 75% renewal rate of subscription plans every month.  
+* The app will generate revenue through a freemium model, with advanced features available via subscriptions.  
+* User adoption and retention will depend on ease of use and perceived value.  
+* A high retention rate will indicate the success of the AI-driven and personalization-focused approach.  
+* Achieve a 90% customer satisfaction score (CSAT).  
+
+###### User Outcome Assumptions  
+* Users will improve their financial habits and achieve their saving goals.  
+* They will feel more secure and in control of their financial situation.  
+* They will save time and effort by using an all-in-one tool to manage their finances.  
+
+###### Features  
+* Easy input of income and expenses with automatic categorization.  
+* Adjustable to the user's needs and habits.  
+* Interactive charts to identify spending patterns.  
+* Notifications when close to exceeding established limits.  
+
+
+##### 1.2.2.3. Lean UX Hypothesis Statements  
+
+##### 1.2.2.4. Lean UX Canvas
